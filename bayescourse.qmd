@@ -1,0 +1,35 @@
+---
+title: "BAYES_COURSE"
+format: html
+editor: visual
+---
+
+# Class Site: Bayesian Data Analysis
+
+[Syllabus](Syllabus/Syllabus_XX.pdf "Click for Syllabus")
+
+## Lecture Notes
+
+1.  Introduction to Bayesian Perspectives
+
+2.  Essentials Review
+
+## Software Tutorials
+
+-   R and RStudio Install and Basic Use
+
+-   Install RStan
+
+-   Install JAGS
+
+-   Basic Stan and JAGS usage
+
+    -   JAGS Test Script
+
+    -   Stan Test Script
+
+## Homework Sets
+
+-   HW Set 1 **Due**: XX-XX-XX   11:00 PM EST [WebAssign](https://www.webassign.net/login.html)
+
+-   HW Set 2 **Due**: XX-XX-XX   11:00 PM EST [WebAssign](https://www.webassign.net/login.html)
