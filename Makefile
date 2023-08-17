@@ -8,7 +8,7 @@ default:
 	
 all:
 	cp bayescourse.html index.html
-	./copyscripts.sh
+	./copyscripts.sh # copy over any new/changed notes and scripts too
 	git add --all
 	git commit -m "update all"
 	git push -u origin master

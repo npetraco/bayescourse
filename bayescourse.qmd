@@ -1,10 +1,8 @@
 ---
-title: "BAYES_COURSE"
+title: "Class Site: Bayesian Data Analysis"
 format: html
 editor: visual
 ---
-
-# Class Site: Bayesian Data Analysis
 
 [Syllabus](Syllabus/Syllabus_XX.pdf "Click for Syllabus")
 
