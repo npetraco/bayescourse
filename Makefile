@@ -16,11 +16,3 @@ all:
 	git add --all
 	git commit -m "update all"
 	git push -u origin master
-
-cp:
-# First copy out anything new in the permanent root to the local and then push to the remote
-	cp bayescourse.html index.html
-	./copyscripts.sh # copy over any new/changed notes and scripts too
-	git add --all
-	git commit -m "update all"
-	git push -u origin master
