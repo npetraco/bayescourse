@@ -12,7 +12,7 @@ all:
 	tar -zcvf backup/Notes.backup.tar.gz Notes                           # back up previous version of Notes in local. Will be gitignored
 	tar -zcvf backup/Notes_scripts_bank.backup.tar.gz Notes_scripts_bank # back up previous version of scripts in local. Will be gitignored
 	cp bayescourse.html index.html
-	./copyscripts.sh                                                     # copy over any new/changed notes and scripts too
+	./copyscripts.sh                                                     # copy over any new/changed notes and scripts from root
 	git add --all
 	git commit -m "update all"
 	git push -u origin master
